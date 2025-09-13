@@ -20,7 +20,7 @@ The **Vehicle Insert System** is a lightweight and customizable Roblox system th
 ## Preview
 
 Image:
-[](https://cdn.discordapp.com/attachments/1415467813228773396/1416537961771696128/VehicleInsertionPanel.png?ex=68c73548&is=68c5e3c8&hm=c7b4351c3ee183ab86d9eb5dad0326946979ed0ceff765c97efcb3bdc41662a8&)
+[Image](https://cdn.discordapp.com/attachments/1415467813228773396/1416537961771696128/VehicleInsertionPanel.png?ex=68c73548&is=68c5e3c8&hm=c7b4351c3ee183ab86d9eb5dad0326946979ed0ceff765c97efcb3bdc41662a8&)
 
 ## License
 
